@@ -1,0 +1,7 @@
+.swiper-button-prev,
+.swiper-button-next {
+  color: #16a34a; /* Tailwind green-600 */
+}
+.swiper-pagination-bullet-active {
+  background: #16a34a;
+}
